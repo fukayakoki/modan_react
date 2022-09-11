@@ -1,2 +1,7 @@
 # modan_react
-Created with CodeSandbox
+簡単なtodoアプリ作成(練習)
+javascript
+html
+css
+
+
